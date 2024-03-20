@@ -1,5 +1,4 @@
-[![Weslen-Lakins-banner](https://user-images.githubusercontent.com/yourbannerurl)](https://yourwebsitelink)
-
+<img src="https://onedrive.live.com/embed?resid=4B1C8510CEF67D18%218986&authkey=%21AMbFoQbP9Kfmem8&width=1584&height=396" width="1584" height="396" />
 <!--
 Welcome to my GitHub README source! Glad you made it here. Crafting this was a delightful challenge.
 -->
@@ -40,7 +39,7 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
     </ul>
   </p>
   <p align="right">
-    ![quick-facts-gift](https://github.com/WeslenLakins/images/google-hacking-syntax-error.gif?raw=true)
+    <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/yR4xZagT71AAM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/google-search-yR4xZagT71AAM"></a></p>
   </p>
 </div>
 
@@ -48,7 +47,7 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 - 🔭 I’m currently working on various personal and collaborative projects
 - 🌱 I’m currently learning more about blockchain technologies
 - 🛠 I enjoy working on:
-  &nbsp; ∘ &nbsp; Open-source projects<br>
+  &nbsp; ∘ &nbsp; Open-source projects
   &nbsp; ∘ &nbsp; Innovative solutions for everyday problems<br>
 - 💬 Ask me about Python, Cybersecurity, and anything tech-related
 - 📙 Check out my [Website](https://yourwebsitelink)
