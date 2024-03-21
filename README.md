@@ -21,9 +21,11 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 </div>
 
 </div>
+<br><br>
 
-## ⚡️ A Few Quick Facts
+## ⚡️ Quick Facts
 
+ <img align="right" height="300px" width="500px" src="https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/silly-4chan-hacker.gif?alt=media&token=6d9e8c80-54e6-4ab8-9e4d-d1e47b64963e">
 <div>
   <p align="left">
     <ul>
@@ -33,9 +35,7 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
       <li>📙 Check out my <a href="https://weslakins.com">Website</a></li>
     </ul>
   </p>
-  <p align="right">
-    <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/yR4xZagT71AAM" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/google-search-yR4xZagT71AAM"></a></p>
-  </p>
+  <img align="right" height="300px" width="500px" src="https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/silly-4chan-hacker.gif?alt=media&token=6d9e8c80-54e6-4ab8-9e4d-d1e47b64963e">
 </div>
 
 ## :heartpulse: My Interests
@@ -46,6 +46,9 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
   &nbsp; ∘ &nbsp; Innovative solutions for everyday problems<br>
 - 💬 Ask me about JavaScript, Cybersecurity, and anything tech-related
 - 🎉 Fun Fact: I love hiking and outdoor adventures
+
+<br><br>
+<br><br>
 
 ## 🖥️ My Setup
 
@@ -67,6 +70,8 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 
 </details>
 
+<img align="right" height="300px" width="500px" src="https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/wtl-setup-2024.jpg?alt=media&token=b352a839-b75b-4b75-bdab-2c8260c1b53b">
+
 <details open>
   <summary>Peripherals</summary>
 
@@ -87,12 +92,10 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 
 ## ⚙️ Some Tools and Tech I use
 
-| Category |     Technologies     |
-| :------: | :------------------: |
-| Frontend | Technologies you use |
-| Backend  | Technologies you use |
-|  DevOps  | Technologies you use |
-|  Other   | Technologies you use |
+| Frontend |                                                                        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />                                                                        | Websites / Finding vulnerabilities (mainly my own) |
+| :------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: |
+| Backend  |                                                                                                                                           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />                                                                                                                                            |         Working on websites, DIY Projects          |
+|  DevOps  | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/570px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi" height="50" /> |              Mostly personal interest              |
 
 <br><br>
 
@@ -110,6 +113,8 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WeslenLakins&show_icons=true&theme=radical" width="400">
 </p>
+
+<br><br>
 
 <div align="center">
   <h3>"The only way to do great work is to love what you do." - Steve Jobs</h3>
