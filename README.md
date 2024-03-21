@@ -1,4 +1,5 @@
-<img src="https://onedrive.live.com/embed?resid=4B1C8510CEF67D18%218986&authkey=%21AMbFoQbP9Kfmem8&width=1584&height=396" width="1584" height="396" />
+[![My-banner](https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/Neon%20Modern%20Cyber%20Punk%20YouTube%20Banner.png?alt=media&token=e5b5018c-336c-4f4f-b98b-d28058c6c509)](https://weslakins.com)
+
 <!--
 Welcome to my GitHub README source! Glad you made it here. Crafting this was a delightful challenge.
 -->
@@ -10,19 +11,15 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
   Active in here:
   -->
 
-  <a href="https://discord.gg/yourdiscord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" style="margin-bottom: 5px;"/>
+  <a href="https://twitter.com/WeslenLakins" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
-  <a href="https://steamcommunity.com/id/YourSteam" target="_blank">
+  <a href="https://steamcommunity.com/profiles/76561199306130179" target="_blank">
     <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
 
 </div>
-<br>
-</div>
 
-<div align="center">
-  <img style="margin: 10px" src="https://cdn.discordapp.com/attachments/yourgiflink" height="25" />
 </div>
 
 ## ⚡️ A Few Quick Facts
@@ -33,9 +30,7 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
       <li>🔭 I’m currently working on various personal and collaborative projects</li>
       <li>🌱 I’m currently learning more about blockchain technologies</li>
       <li>👯 I’m looking to collaborate on open-source projects</li>
-      <li>💬 Ask me about Python, Cybersecurity, and anything tech-related</li>
-      <li>📙 Check out my <a href="https://yourwebsitelink">Website</a></li>
-      <li>🎉 Fun Fact: I love hiking and outdoor adventures</li>
+      <li>📙 Check out my <a href="https://weslakins.com">Website</a></li>
     </ul>
   </p>
   <p align="right">
@@ -43,39 +38,50 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
   </p>
 </div>
 
-- 👨 I'm a developer passionate about privacy and security
-- 🔭 I’m currently working on various personal and collaborative projects
-- 🌱 I’m currently learning more about blockchain technologies
+## :heartpulse: My Interests
+
+- Open-source projects
 - 🛠 I enjoy working on:
   &nbsp; ∘ &nbsp; Open-source projects
   &nbsp; ∘ &nbsp; Innovative solutions for everyday problems<br>
-- 💬 Ask me about Python, Cybersecurity, and anything tech-related
-- 📙 Check out my [Website](https://yourwebsitelink)
+- 💬 Ask me about JavaScript, Cybersecurity, and anything tech-related
 - 🎉 Fun Fact: I love hiking and outdoor adventures
 
-<br><br>
-
 ## 🖥️ My Setup
+
+<img align="right" height="300px" width="500px" src="https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/wtl-setup-2024.jpg?alt=media&token=b352a839-b75b-4b75-bdab-2c8260c1b53b">
 
 <details open>
   <summary>Machine Specs</summary>
 
-- CPU: Your CPU here
-- GPU: Your GPU here
-- RAM: Your RAM details here
-- And so on...
+- CPU: AMD Ryzen 5 5700G
+- GPU: Nvidia RTX 3060 & GT 710
+- RAM: 64GB (4x16GB) Corsair Vengeance LPX CL16
+- Case: MSI MPG Gungnir 111R
+- Cooler: MSI MPG CORELIQUID K240 V2 AIO
+- Motherboard: MSI B450 Gaming Plus
+- Drives:
+  - Boot: FastrO MS150 512GB NVMe
+  - Work: Toshiba MQ01ABD100 1TB HDD
+  - Game: TeamGroup T253 1TB SSD
 
 </details>
 
-<details>
+<details open>
   <summary>Peripherals</summary>
 
-- Monitor: Your monitor details
-- Keyboard: Your keyboard details
-- Mouse: Your mouse details
-- And more...
+- Monitor: 3x Huawei 23,8" Full HD
+- Keyboard: Ducky One 3 Classic MX Blue
+- Mouse: Logi MX Master 3S
+- Audio Equip:
+  - Speakers: Logic3 TX101 5.1 Soundbar
+  - Amplifier: Scarlett 2i2 3rd Gen audio interface
+  - Microphone: CM25 MkIII condenser microphone
+  - Headphones: HP60 MkIII studio headphones
+- Desk: Secretlab Magnus Pro
+- Chair: Secretlab Titan Evo
 
-</details>
+  </details>
 
 <br><br>
 
@@ -102,9 +108,9 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=WeslenLakins&show_icons=true&theme=radical" width="400">
 </p>
 
 <div align="center">
-  <p>"The only way to do great work is to love what you do." - Steve Jobs</p>
+  <h3>"The only way to do great work is to love what you do." - Steve Jobs</h3>
 </div>
