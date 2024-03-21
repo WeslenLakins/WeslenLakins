@@ -32,12 +32,6 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 
 <br><br>
 
-![My-banner](https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/silly-4chan-hacker.gif?alt=media&token=6d9e8c80-54e6-4ab8-9e4d-d1e47b64963e)
-
-<br><br>
-
-</div>
-
 ## :heartpulse: My Interests
 
 - :computer: Open-source projects
@@ -47,7 +41,6 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 - 📫 How to reach me: [weslakins.com](https://weslakins.com)
 - :zap: Innovative solutions for everyday problems
 
-<br><br>
 <br><br>
 
 ## 🖥️ My Setup
