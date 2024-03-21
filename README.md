@@ -45,39 +45,38 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 
 ## 🖥️ My Setup
 
-<img align="right" height="300px" width="500px" src="https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/wtl-setup-2024.jpg?alt=media&token=b352a839-b75b-4b75-bdab-2c8260c1b53b">
+<img align="right" height="300px" width="500px" src="https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/wtl-setup-2024.jpg?alt=media&token=781715cc-4ff8-448e-82b5-13e1c2e1535a">
 
 <details open>
   <summary>Machine Specs</summary>
 
-- CPU: AMD Ryzen 5 5700G
-- GPU: Nvidia RTX 3060 & GT 710
-- RAM: 64GB (4x16GB) Corsair Vengeance LPX CL16
-- Case: MSI MPG Gungnir 111R
-- Cooler: MSI MPG CORELIQUID K240 V2 AIO
-- Motherboard: MSI B450 Gaming Plus
+- CPU: AMD Ryzen 7 5800X
+- GPU: NVIDIA GeForce RTX 3060 Ti with LHR (8 GB) Graphics Card
+- RAM: 32GB (2x16GB) HyperX XMP RGB
+- Case: Omen 30L
+- Cooler: Cooler Master MasterLiquid ML240L V2 RGB
+- Motherboard: Hana B550 AM4
 - Drives:
-  - Boot: FastrO MS150 512GB NVMe
-  - Work: Toshiba MQ01ABD100 1TB HDD
-  - Game: TeamGroup T253 1TB SSD
+  - Boot: Kingston A2000 500GB NVMe SSD
+  - Work: Samsung 970 EVO Plus 1TB NVMe SSD
+  - Game: Seagate Barracuda 2TB HDD
 
 </details>
 
-<img align="right" height="300px" width="500px" src="https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/wtl-setup-2024.jpg?alt=media&token=b352a839-b75b-4b75-bdab-2c8260c1b53b">
+<img align="right" height="300px" width="500px" src="https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/wtl-setup-2024.jpg?alt=media&token=781715cc-4ff8-448e-82b5-13e1c2e1535a">
 
 <details open>
   <summary>Peripherals</summary>
 
-- Monitor: 3x Huawei 23,8" Full HD
-- Keyboard: Ducky One 3 Classic MX Blue
-- Mouse: Logi MX Master 3S
+- Monitor: HP 27" 144Hz
+- Keyboard: Logitech G512 Carbon RGB Mechanical
+- Mouse: Logitech G203 Lightsync RGB
+- Webcam: Logitech C920 HD Pro
 - Audio Equip:
-  - Speakers: Logic3 TX101 5.1 Soundbar
-  - Amplifier: Scarlett 2i2 3rd Gen audio interface
-  - Microphone: CM25 MkIII condenser microphone
-  - Headphones: HP60 MkIII studio headphones
-- Desk: Secretlab Magnus Pro
-- Chair: Secretlab Titan Evo
+  - Speakers: Logi Z207 Bluetooth
+  - Headset: Logi G Pro X
+- Desk: idk but it's big and hides wires nicely
+- Chair: Emerge Vortex
 
   </details>
 
@@ -98,6 +97,11 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 
 - **[Patreon](https://patreon.com/yourpatreon)**: Support me with a monthly subscription
 - **[Paypal](https://paypal.me/yourpaypal)**: For one-time donations
+- **[Buy Me a Coffee](https://buymeacoffee.com/yourbuymeacoffee)**: For energy to keep me going
+- **[Venmo](https://venmo.com/yourvenmo)**: For one-time donations
+- **[Cash App](https://cash.app/$yourcashapp)**: For crypto donations
+- **[Bitcoin](https://yourbitcoinwallet)**: For crypto donations
+- **[Ethereum](https://yourethereumwallet)**: For crypto donations
 
 <br><br>
 
