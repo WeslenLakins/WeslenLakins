@@ -26,26 +26,23 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 ## ⚡️ Quick Facts
 
  <img align="right" height="300px" width="500px" src="https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/silly-4chan-hacker.gif?alt=media&token=6d9e8c80-54e6-4ab8-9e4d-d1e47b64963e">
-<div>
-  <p align="left">
-    <ul>
-      <li>🔭 I’m currently working on various personal and collaborative projects</li>
-      <li>🌱 I’m currently learning more about blockchain technologies</li>
-      <li>👯 I’m looking to collaborate on open-source projects</li>
-      <li>📙 Check out my <a href="https://weslakins.com">Website</a></li>
-    </ul>
-  </p>
+
+- 🔭 I’m currently working on various personal and collaborative projects
+- 🌱 I’m slowly learning more about blockchain technologies
+- 👯 I’m looking to collaborate on open-source projects
+- 🤔 I'm . . .
+
   <img align="right" height="300px" width="500px" src="https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/silly-4chan-hacker.gif?alt=media&token=6d9e8c80-54e6-4ab8-9e4d-d1e47b64963e">
 </div>
 
 ## :heartpulse: My Interests
 
-- Open-source projects
-- 🛠 I enjoy working on:
-  &nbsp; ∘ &nbsp; Open-source projects
-  &nbsp; ∘ &nbsp; Innovative solutions for everyday problems<br>
+- :computer: Open-source projects
+- :lock: Cybersecurity
 - 💬 Ask me about JavaScript, Cybersecurity, and anything tech-related
 - 🎉 Fun Fact: I love hiking and outdoor adventures
+- 📫 How to reach me: [weslakins.com](https://weslakins.com)
+- :zap: Innovative solutions for everyday problems
 
 <br><br>
 <br><br>
@@ -92,10 +89,10 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 
 ## ⚙️ Some Tools and Tech I use
 
-| Frontend |                                                                        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />                                                                        | Websites / Finding vulnerabilities (mainly my own) |
-| :------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: |
-| Backend  |                                                                                                                                           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />                                                                                                                                            |         Working on websites, DIY Projects          |
-|  DevOps  | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/570px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi" height="50" /> |              Mostly personal interest              |
+| Frontend |                                                                                                                                           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />                                                                                                                                            | Websites / Finding vulnerabilities (mainly my own) |
+| :------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: |
+| Backend  |                                                                                                                                                                                                               <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />                                                                                                                                                                                                               |         Working on websites, DIY Projects          |
+|  DevOps  | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/570px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /> |              Mostly personal interest              |
 
 <br><br>
 
