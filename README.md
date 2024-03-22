@@ -1,14 +1,14 @@
-[![My-banner](https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/Neon%20Modern%20Cyber%20Punk%20YouTube%20Banner.png?alt=media&token=e5b5018c-336c-4f4f-b98b-d28058c6c509)](https://weslakins.com)
-
 <!--
 Welcome to my GitHub README source! Glad you made it here. Crafting this was a delightful challenge.
 -->
+
+[![My-banner](https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/Neon%20Modern%20Cyber%20Punk%20YouTube%20Banner.png?alt=media&token=e5b5018c-336c-4f4f-b98b-d28058c6c509)](https://weslakins.com)
 
 <h3 align="center">A privacy-conscious developer always exploring new technologies</h3>
 <div align="center">
 
   <!--
-  Active in here:
+  Active here:
   -->
 
   <a href="https://twitter.com/WeslenLakins" target="_blank">
@@ -26,31 +26,25 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 ## ⚡️ Quick Facts
 
 - 🔭 I’m currently working on various personal and collaborative projects
-- 🌱 I’m slowly learning more about blockchain technologies
+- 🌱 I’m slowly learning more about blockchain technologies, C, and Cybersecurity
 - 👯 I’m looking to collaborate on open-source projects
-- 🤔 I'm . . .
 
-![silly-hacker](https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/silly-4chan-hacker.gif?alt=media&token=6d9e8c80-54e6-4ab8-9e4d-d1e47b64963e)
-
-<br><br>
+![silly-hacker](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajljN21pYjRhdHViaW1tc3hlamFsdW5wNXBhbmthZ3JxMWUwZXU3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif)
 
 ## :heartpulse: My Interests
 
 - :computer: Open-source projects
-- :lock: Cybersecurity
+- :lock: Cybersecurity, Privacy, and Pen Testing
 - 💬 Ask me about JavaScript, Cybersecurity, and anything tech-related
 - 🎉 Fun Fact: I love hiking and outdoor adventures
 - 📫 How to reach me: [weslakins.com](https://weslakins.com)
 - :zap: Innovative solutions for everyday problems
 
-<br><br>
-
 ## 🖥️ My Setup
 
-<img align="right" height="300px" width="500px" src="https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/wtl-setup-2024.jpg?alt=media&token=781715cc-4ff8-448e-82b5-13e1c2e1535a">
+![my-workstation](https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/wtl-setup-2024.jpg?alt=media&token=781715cc-4ff8-448e-82b5-13e1c2e1535a)
 
-<details open>
-  <summary>Machine Specs</summary>
+### Machine Specs
 
 - CPU: AMD Ryzen 7 5800X
 - GPU: NVIDIA GeForce RTX 3060 Ti with LHR (8 GB) Graphics Card
@@ -63,10 +57,7 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
   - Work: Samsung 970 EVO Plus 1TB NVMe SSD
   - Game: Seagate Barracuda 2TB HDD
 
-</details>
-
-<details open>
-  <summary>Peripherals</summary>
+### Peripherals and Accessories
 
 - Monitor: HP 27" 144Hz
 - Keyboard: Logitech G512 Carbon RGB Mechanical
@@ -77,10 +68,6 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
   - Headset: Logi G Pro X
 - Desk: idk but it's big and hides wires nicely
 - Chair: Emerge Vortex
-
-  </details>
-
-<br><br>
 
 ## ⚙️ Some Tools and Tech I use
 
