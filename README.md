@@ -63,8 +63,6 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 
 </details>
 
-<img align="right" height="300px" width="500px" src="https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/wtl-setup-2024.jpg?alt=media&token=781715cc-4ff8-448e-82b5-13e1c2e1535a">
-
 <details open>
   <summary>Peripherals</summary>
 
