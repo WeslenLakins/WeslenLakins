@@ -29,7 +29,7 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 - 🌱 I’m slowly learning more about blockchain technologies, C, and Cybersecurity
 - 👯 I’m looking to collaborate on open-source projects
 
-![silly-hacker](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajljN21pYjRhdHViaW1tc3hlamFsdW5wNXBhbmthZ3JxMWUwZXU3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YQitE4YNQNahy/giphy.gif)
+![silly-hacker](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHd1MGlmYTUwcGg4eXlpdXZhYmM5OW95NGE0NG15NnR6YjUxdHptNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif)
 
 ## :heartpulse: My Interests
 
@@ -71,12 +71,10 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 
 ## ⚙️ Some Tools and Tech I use
 
-| Frontend |                                                                                                                                           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />                                                                                                                                            | Websites / Finding vulnerabilities (mainly my own) |
-| :------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: |
-| Backend  |                                                                                                                                                                                                               <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />                                                                                                                                                                                                               |         Working on websites, DIY Projects          |
-|  DevOps  | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/570px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /> |              Mostly personal interest              |
-
-<br><br>
+| Frontend |           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />           | Websites / Finding vulnerabilities (mainly my own) |
+| :------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------: |
+| Backend  |                                                                              <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />                                                                               |         Working on websites, DIY Projects          |
+|  DevOps  | <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /> <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/de/thumb/c/cb/Raspberry_Pi_Logo.svg/570px-Raspberry_Pi_Logo.svg.png" alt="Raspberry Pi" height="50" /> |              Mostly personal interest              |
 
 ## ❤️ Support Me
 
@@ -90,15 +88,20 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 - **[Bitcoin](https://yourbitcoinwallet)**: For crypto donations
 - **[Ethereum](https://yourethereumwallet)**: For crypto donations
 
-<br><br>
-
 ## 📊 GitHub Stats
+
+I only started using GitHub actively in 2023, so my stats are a bit low. I'm working on improving them every day.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WeslenLakins&show_icons=true&theme=radical" width="400">
 </p>
 
-<br><br>
+## 📈 My Top Languages on GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WeslenLakins&layout=compact&theme=radical" width="400">
+
+<br></br>
 
 <div align="center">
   <h3>"The only way to do great work is to love what you do." - Steve Jobs</h3>
