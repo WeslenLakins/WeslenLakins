@@ -30,6 +30,8 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 - 👯 I’m looking to collaborate on open-source projects
 - 🤔 I'm . . .
 
+![silly-hacker](https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/silly-4chan-hacker.gif?alt=media&token=6d9e8c80-54e6-4ab8-9e4d-d1e47b64963e)
+
 <br><br>
 
 ## :heartpulse: My Interests
