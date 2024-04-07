@@ -4,7 +4,7 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 
 [![My-banner](https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/Neon%20Modern%20Cyber%20Punk%20YouTube%20Banner.png?alt=media&token=e5b5018c-336c-4f4f-b98b-d28058c6c509)](https://weslakins.com)
 
-<h3 align="center">A privacy-conscious developer always exploring new technologies</h3>
+<h3 align="center">A privacy-conscious developer always exploring new technologies :)</h3>
 <div align="center">
 
   <!--
@@ -25,7 +25,7 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 
 ## ⚡️ Quick Facts
 
-- 🔭 I’m currently working on various personal and collaborative projects
+- 🔭 I’m currently working on various personal and group projects
 - 🌱 I’m slowly learning more about blockchain technologies, C, and Cybersecurity
 - 👯 I’m looking to collaborate on open-source projects
 
