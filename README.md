@@ -4,7 +4,7 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 
 [![My-banner](https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/Neon%20Modern%20Cyber%20Punk%20YouTube%20Banner.png?alt=media&token=e5b5018c-336c-4f4f-b98b-d28058c6c509)](https://weslakins.com)
 
-<h3 align="center">A privacy-conscious developer always exploring new technologies :)</h3>
+<h3 Zillennial, attorney, & dog dad ⚖️👨‍💻</h3>
 <div align="center">
 
   <!--
@@ -14,7 +14,7 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
   <a href="https://twitter.com/WeslenLakins" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
-  <a href="https://steamcommunity.com/profiles/76561199306130179" target="_blank">
+  <a href="https://steamcommunity.com/id/weslenlakins/" target="_blank">
     <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" style="margin-bottom: 5px;"/>
   </a>
 
@@ -67,7 +67,7 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
   - Speakers: Logi Z207 Bluetooth
   - Headset: Logi G Pro X
 - Desk: idk but it's big and hides wires nicely
-- Chair: Emerge Vortex
+- Chair: Secretlab TITAN Evo (not pictured)
 
 ## ⚙️ Some Tools and Tech I use
 
@@ -80,13 +80,10 @@ Welcome to my GitHub README source! Glad you made it here. Crafting this was a d
 
 <p>If you find my work useful, consider supporting me. Every bit helps keep me motivated and focused on open-source projects and tech exploration.</p>
 
-- **[Patreon](https://patreon.com/yourpatreon)**: Support me with a monthly subscription
-- **[Paypal](https://paypal.me/yourpaypal)**: For one-time donations
-- **[Buy Me a Coffee](https://buymeacoffee.com/yourbuymeacoffee)**: For energy to keep me going
-- **[Venmo](https://venmo.com/yourvenmo)**: For one-time donations
-- **[Cash App](https://cash.app/$yourcashapp)**: For crypto donations
-- **[Bitcoin](https://yourbitcoinwallet)**: For crypto donations
-- **[Ethereum](https://yourethereumwallet)**: For crypto donations
+- **[Buy Me a Coffee](https://buymeacoffee.com/weslenlakins
+)**: For energy to keep me going
+- **[Venmo](https://venmo.com/u/Weslen-Lakins)**: For one-time donations
+- **[Cash App](https://cash.app/$WeslenLakins)**: For one-time donations
 
 ## 📊 GitHub Stats
 
