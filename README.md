@@ -2,8 +2,6 @@
 Welcome to my GitHub README source! Glad you made it here. Crafting this was a delightful challenge.
 -->
 
-[![My-banner](https://firebasestorage.googleapis.com/v0/b/mern-blog-530c9.appspot.com/o/Neon%20Modern%20Cyber%20Punk%20YouTube%20Banner.png?alt=media&token=e5b5018c-336c-4f4f-b98b-d28058c6c509)](https://weslakins.com)
-
 <h3 Zillennial, attorney, & dog dad ⚖️👨‍💻</h3>
 <div align="center">
 
